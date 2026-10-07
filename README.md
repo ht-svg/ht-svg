@@ -1,16 +1,133 @@
-## Hi there 👋
+<!-- ✨ 现代化 GitHub 个人说明书 · Modern Profile README -->
+<div align="center">
 
-<!--
-**ht-svg/ht-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 顶部横幅：可替换为你自己的 banner（推荐尺寸 1584×392） -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&random=false&width=520&lines=Hi%2C+I'm+%5B你的名字%5D+%F0%9F%91%8B;AI+%7C+Full-Stack+Developer;Always+learning+something+new" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+[![GitHub Stars](https://img.shields.io/github/stars/ht-svg?style=for-the-badge&color=yellow)](https://github.com/ht-svg?tab=stars)
+[![Followers](https://img.shields.io/github/followers/ht-svg?style=for-the-badge&color=blue)](https://github.com/ht-svg)
+[![Profile Views](https://komarev.com/ghpvc/?username=ht-svg&style=for-the-badge&color=green)](https://github.com/ht-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 About Me
+
+> 一个把想法变成产品的人。
+
+- 🔭 **正在做** ：`[你的项目，例如：一个基于 LLM 的智能体框架]`
+- 🌱 **正在学** ：`[例如：Rust / Agent 编排 / 系统设计]`
+- 💬 **可以问我** ：`[例如：前端工程化、AI 应用开发]`
+- ⚡ **冷知识** ：`[例如：我的键盘比代码提交次数还多]`
+- 📫 **联系我** ：[📮 邮箱](mailto:you@example.com) · [🐦 Twitter/X](https://x.com/yourhandle) · [🌐 个人主页](https://example.com)
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td width="50%">
+
+**💻 Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+</td>
+<td width="50%">
+
+**🧰 Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>🔍 点击展开：开发环境与装备</summary>
+<br>
+
+- **IDE** ：Cursor / VS Code · Neovim（偶尔装一下）
+- **Terminal** ：WezTerm + Starship + zsh
+- **OS** ：macOS（主力）/ Ubuntu（服务器）
+- **Design** ：Figma
+- **Note** ：Obsidian
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ht-svg&show_icons=true&count_to=100000&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F778BA&text_color=C9D1D9" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ht-svg&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ht-svg&theme=github-compass&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="100%" />
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [项目名称 A](https://github.com/ht-svg/repo-a)
+`⭐ 1.2k` `[TypeScript]`
+
+一句话介绍它能做什么、解决什么问题。
+
+[📖 Docs](https://example.com) · [🎬 Demo](https://example.com)
+
+</td>
+<td width="50%" valign="top">
+
+### [项目名称 B](https://github.com/ht-svg/repo-b)
+`⭐ 300` `[Python]`
+
+一句话介绍它能做什么、解决什么问题。
+
+[📖 Docs](https://example.com) · [🎬 Demo](https://example.com)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements
+
+<div align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=ht-svg&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies" width="100%" />
+</div>
+
+---
+
+## 🎵 Currently
+
+<!-- 可选：Spotify 实时听歌卡片，需要配置后生效 -->
+<!-- <a href="https://open.spotify.com/user/yourid"><img src="https://spotify-recently-played-readme.vercel.app/api?user=yourid&count=5" alt="Spotify" /></a> -->
+
+<div align="center">
+
+*"Stay hungry, stay foolish."*
+
+Made with ❤️ · Last updated: 2026-10
+
+</div>

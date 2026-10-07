@@ -1,8 +1,9 @@
 <!-- ✨ 现代化 GitHub 个人说明书 · Modern Profile README -->
+<!-- 使用说明：将 [占位符] 替换为真实信息；将 ht-svg 替换为你的 GitHub 用户名 -->
+
 <div align="center">
 
-<!-- 顶部横幅：可替换为你自己的 banner（推荐尺寸 1584×392） -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&random=false&width=520&lines=Hi%2C+I'm+%5B你的名字%5D+%F0%9F%91%8B;AI+%7C+Full-Stack+Developer;Always+learning+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&random=false&width=520&lines=Hi%2C+I'm+%5Bht-svg%5D+%F0%9F%91%8B;AI+%7C+Full-Stack+Developer;Always+learning+something+new" alt="Typing SVG" />
 
 [![GitHub Stars](https://img.shields.io/github/stars/ht-svg?style=for-the-badge&color=yellow)](https://github.com/ht-svg?tab=stars)
 [![Followers](https://img.shields.io/github/followers/ht-svg?style=for-the-badge&color=blue)](https://github.com/ht-svg)
@@ -28,7 +29,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **💻 Languages**
 
@@ -39,7 +40,7 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🧰 Frameworks & Tools**
 
@@ -69,8 +70,10 @@
 
 ## 📊 GitHub Stats
 
+<!-- 注意：公共 Vercel 实例可能不稳定。若图片不显示，建议自部署或改用 GitHub Actions 生成静态 SVG [citation:1][citation:14] -->
+
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ht-svg&show_icons=true&count_to=100000&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F778BA&text_color=C9D1D9" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ht-svg&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F778BA&text_color=C9D1D9" alt="GitHub Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ht-svg&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
@@ -110,19 +113,6 @@
 </table>
 
 ---
-
-## 🏆 Achievements
-
-<div align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=ht-svg&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies" width="100%" />
-</div>
-
----
-
-## 🎵 Currently
-
-<!-- 可选：Spotify 实时听歌卡片，需要配置后生效 -->
-<!-- <a href="https://open.spotify.com/user/yourid"><img src="https://spotify-recently-played-readme.vercel.app/api?user=yourid&count=5" alt="Spotify" /></a> -->
 
 <div align="center">
 
